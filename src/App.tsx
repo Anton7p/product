@@ -11,7 +11,7 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <div className='block'><p>Bombagen!       Bombagen!       Bombagen!       Bombagen!       Bombagen!</p></div>
+
             </header>
         </div>
     );
